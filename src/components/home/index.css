@@ -1,0 +1,16 @@
+.tab-btn {
+  color: white;
+  font-weight: bold;
+  border:0px none;
+  background-color: transparent;
+}
+
+.active-tab-btn{
+  color:#fec653;
+  text-decoration: underline;
+  text-decoration-color: #fec653;
+}
+
+.list-item-container {
+  list-style-type: none;
+}
